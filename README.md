@@ -106,7 +106,7 @@
 
 ### 🔹 14. Document type aniqlash
 
-**🧮 Vazifa:** Fayl `.pdf`, `.docx` yoki `.txt` bilan tugashini tekshiring va uni anilovchi dastur yarating.\
+**🧮 Vazifa:** .pdfFayl ``, `.docx` yoki `.txt` bilan tugashini tekshiring va uni anilovchi dastur yarating.\
 **📥 Kirish:** `"report.pdf"`\
 **📤 Chiqish:** `Fayl turi: pdf`
 
@@ -131,6 +131,8 @@
 **🧮 Vazifa:** Chipta narxi 100 000 so‘m. Yoshga qarab chegirma qo‘llang. Yosh kiritilganda aynan shu yoshdagi insonlar uchun chipta narxi qancha bo'lishi va qancha chegirma berilishini aniqlovchi dastur yarating.\
 **📥 Kirish:** `5`\
 **📤 Chiqish:** `Yakuniy narx: 50 so'm (50% chegirma qo'llanildi)`
+8 yoshdan past bolsa 50%
+18 pastiga 20%
 
 ---
 
